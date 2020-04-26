@@ -1,4 +1,4 @@
-# Social Media
+# Social Media :sunglasses:
 This is a social media web app that made with Spring Boot, Maven, ReactJS and PostrgreSQL 
 
 <h3>Features</h3>
