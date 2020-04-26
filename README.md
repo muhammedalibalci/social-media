@@ -9,7 +9,7 @@ This is a social media web app that made with Spring Boot, Maven, ReactJS and Po
 Login/Register/Validation
 </li>
 <li>
-CRUD User status comments on user status
+Create the post and the comment
 </li>
 <li>
 User profile - including personal information, avatar, posts of user
